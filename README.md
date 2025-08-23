@@ -26,5 +26,7 @@
 
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/contribution-graph.png)
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/contribution-graph2.png)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/contribution-graph3.png)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/contribution-graph4.png)
 
 
