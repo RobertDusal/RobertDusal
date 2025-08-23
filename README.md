@@ -19,6 +19,7 @@
 ## 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/roberto.dusal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robertdusal)
+[![Gmail](https://img.shields.io/badge/Email-dusalrobert@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dusalrobert@gmail.com)
 
 ## 📊 GitHub Stats
 ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDusal&show_icons=true&theme=radical)
