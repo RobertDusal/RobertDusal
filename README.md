@@ -24,6 +24,6 @@
 
 ## 📈 My GitHub Contributions
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/Screenshot 2025-08-23 232151.png)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/contribution-graph.png)
 
 
