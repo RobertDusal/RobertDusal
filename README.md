@@ -21,8 +21,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robertdusal)
 [![Gmail](https://img.shields.io/badge/Email-dusalrobert@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dusalrobert@gmail.com)
 
-## 📊 GitHub Stats
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDusal&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=RobertDusal&theme=radical&hide_border=true)
+## 📈 My GitHub Contributions
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/RobertDusal/RobertDusal/main/Screenshot 2025-08-23 232151.png)
+
 
